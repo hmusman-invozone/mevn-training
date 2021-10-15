@@ -1,4 +1,9 @@
-# life-cycle-example
+# MEVN Training
+
+- MongoDB
+- Express (.js)
+- Vue (.js)
+- Node(.js)
 
 ## Project setup
 ```
